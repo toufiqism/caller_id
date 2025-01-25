@@ -47,5 +47,3 @@ The app requires the following runtime permissions:
 ## Contributing
 Contributions are welcome. Please submit pull requests or open issues for suggestions.
 
-## License
-[Specify your license here] 
